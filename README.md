@@ -56,8 +56,6 @@ It is designed to combine technical strength with immersive visual presentation.
 
 3️⃣ Development Preview
 
-![Code Preview](screenshots/code-preview.png)
-
 **Highlights:**
 - Modular HTML structure
 - Organized CSS theme classes
